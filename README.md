@@ -3,3 +3,5 @@ Practicando el trabajo en equipo
 Juan Macario
 Christian Emmanuel Rojas Perez
 Abner Lopez
+Josué Neftalí Cáceres Baquin
+
